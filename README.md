@@ -1,4 +1,4 @@
-# AI-Desktop-Application-
+# AI-Desktop-Assistant -
 Imagine how easier it would be to send emails without typing a single word, doing Wikipedia searches without opening web browsers, and performing many other daily tasks like playing music with the help of a single voice command.So, here my this project can help us in doing all these tasks.
 What can this A.I. assistant do for you?
 
